@@ -11,7 +11,7 @@ Physical resource management: nodes, disks, etc
 Rights management: users and roles
 File management: list, upload, download
 
-<img src="https://github.com/cubefs/cubefs-dashboard/blob/main/pictures/architecture.png" width="600" align=center/>
+<img src="https://github.com/cubefs/cubefs-dashboard/blob/main/pictures/architecture.png" align=center/>
 
 Features
 Managing multiple clusters: The Management Console is deployed independently of a cluster and can manage multiple clusters simultaneously
